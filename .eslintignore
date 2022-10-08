@@ -1,0 +1,6 @@
+/dist
+*.html
+*.json
+
+prettier.config.cjs
+tailwind.config.cjs
